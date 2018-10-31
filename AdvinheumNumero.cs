@@ -10,6 +10,17 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            //DESENVOLVIDO POR RAYWAM SHINKODA
+            //PROGRAMA QUE GERA O DIA SEGUINTE
+            //CONTATO: raywam@hotmail.com
+            
+            //Uma brincadeira entre colegas funciona assim: um deles pensa um número. O outro deve fazer chutes até acertar o número 
+            //imaginado. A cada tentativa, aquele que pensou o número deve responder se o chute foi alto ou baixo. O ideal é acertar
+            //o número imaginado com menos tentativas.
+            
+            //Faça um algoritmo que gere um número inteiro aleatório de 1 até 100. O programa deve solicitar chutes ao usuário e
+            //apontar a mensagem correspondente (se o chute foi alto ou baixo). Quando o usuário acertar o número, o programa deve 
+            //informar quantas tentativas foram necessárias. 
 
             char repete;
 
